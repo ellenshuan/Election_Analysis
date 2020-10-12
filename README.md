@@ -5,7 +5,7 @@ Using python for election analysis
 The purpose of the election audit analysis is to use raw data given to examine the voter result for a congressional election in Colorado. We used the python and the information given in raw data from a csv file to figure out total number of votes, the total number of votes for each candidate, and the percentage of total votes each candidate won to figure out who won the election. We also used our information given to see how many of the votes were from Jefferson, Denver, and Arapahoe. From there, we could see which county had the largest turnout.  
 
 ## Election Audit Results
--the total number of votes cast in this congressional election is 369,711. 
+-The total number of votes cast in this congressional election is 369,711. 
 
 ![](./Resources/total_votes.png)
 
